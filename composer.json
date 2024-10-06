@@ -55,6 +55,7 @@
         "magento/module-amqp": "*",
         "magento/module-amqp-store": "*",
         "magento/module-analytics": "*",
+        "magento/module-application-performance-monitor": "*",
         "magento/module-application-performance-monitor-new-relic": "*",
         "magento/module-authorizenet": "*",
         "magento/module-authorizenet-acceptjs": "*",
